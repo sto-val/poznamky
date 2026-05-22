@@ -3438,7 +3438,7 @@ input, select, textarea {
 			#header {
 				display: block;
 				padding: 0 2em;
-				text-align: left;
+				text-align: center;
 			}
 
 				#header .title {
